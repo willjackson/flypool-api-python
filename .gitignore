@@ -1,0 +1,4 @@
+.idea/
+_env/
+*.pyc
+conf.py

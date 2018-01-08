@@ -1,0 +1,4 @@
+#!/usr/bin/python
+#
+# Script Settings
+miner = 'YOUR_MINER_PUBLIC_KEY'
